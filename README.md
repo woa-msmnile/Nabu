@@ -9,6 +9,7 @@ These driver files are not perfect, typos may exist, feel free to file an issue 
 
 | Feature                | Notes                                               | Status         |
 |------------------------|-----------------------------------------------------|----------------|
+| Audio                  | Audio from speakers works in stereo mode, (microphones doesn't work) | ✅            |
 | Bluetooth              |                                                     | ✅            |
 | Wifi                   |                                                     | ✅            |
 | UFS                    |                                                     | ✅            |
